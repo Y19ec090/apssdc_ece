@@ -4,4 +4,4 @@ python programming-workshop
 
 ### APSSDC 
 - python workshop for ece
--RVR&JC collage of engineering
+- RVR&JC collage of engineering
